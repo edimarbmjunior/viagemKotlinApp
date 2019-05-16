@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViagemCalculos</string>
+    <string name="distancia">Distância</string>
+    <string name="calcular">Calcular</string>
+    <string name="valoresInvalidos">Por favor, informe valores válidos!</string>
+    <string name="parametrosInavalidos">Por favor, parâmetros de entrada errados!</string>
+</resources>
