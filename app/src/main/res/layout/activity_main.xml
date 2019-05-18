@@ -23,7 +23,9 @@
             android:layout_width="match_parent"
             android:layout_height="70dp"
             android:gravity="center"
-            android:hint="@string/distancia" />
+            android:hint="@string/distancia"
+            android:maxLength="15"
+            android:inputType="number"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -41,7 +43,9 @@
             android:layout_width="match_parent"
             android:layout_height="70dp"
             android:gravity="center"
-            android:hint="Preço" />
+            android:hint="Preço"
+            android:maxLength="15"
+            android:inputType="numberDecimal" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -59,7 +63,9 @@
             android:layout_width="match_parent"
             android:layout_height="70dp"
             android:gravity="center"
-            android:hint="Autonomia" />
+            android:hint="Autonomia"
+            android:maxLength="15"
+            android:inputType="number"/>
 
 
         <TextView
