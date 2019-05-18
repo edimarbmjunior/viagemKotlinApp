@@ -1,6 +1,3 @@
-# viagemKotlinApp
-
-
 # Kotlin - App para demonstracao de funções básicas
 
 ### Pré-requisito
